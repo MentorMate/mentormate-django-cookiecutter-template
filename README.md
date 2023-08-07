@@ -35,7 +35,7 @@ steps:
    your project:
 
    ```shell
-   cookiecutter https://github.com/gp-mentormate/django-cookiecutter-template
+   cookiecutter https://github.com/MentorMate/mentormate-django-cookiecutter-template
    ```
 
    This command will initiate the project generation process.
